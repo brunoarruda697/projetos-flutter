@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:flutter_launcher_icons/android.dart';
 
 void main() {
   runApp(MaterialApp(title: "Contador de Pessoas", home: Home()));

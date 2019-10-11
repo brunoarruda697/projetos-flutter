@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1005821049400",
+    "firebase_url": "https://loja-flutter-26fbb.firebaseio.com",
+    "project_id": "loja-flutter-26fbb",
+    "storage_bucket": "loja-flutter-26fbb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1005821049400:android:64dbb57a5849fb27",
+        "android_client_info": {
+          "package_name": "com.saitama.loja_virtual"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1005821049400-lsaso9447uegh795431lqh9bjkt2ffsv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-1HVng3nOsCLT1ItX3sz8mSCZ8pOsGI8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1005821049400-lsaso9447uegh795431lqh9bjkt2ffsv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
